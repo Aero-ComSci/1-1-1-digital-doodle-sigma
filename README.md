@@ -5,7 +5,7 @@
 
 1. Who is this app for?
    Those who want to edit the pictures they take
-1. What does it do, how does it work
+1. What does it do, how does it work?
    The main functionality is to be able to draw on the picture with a variety of colors and place sunglasses if you want to. You can also save your picture to your external storage (if you have one).
 1. Add screenshots of the design view or actual app
    ![image](https://github.com/user-attachments/assets/782f9a97-af13-45c7-a671-c20bdddd5fe8)
@@ -13,6 +13,8 @@
 
 1. Blocks that you showcase your individual skill
 1. The images you created
+![New Piskel (2)](https://github.com/user-attachments/assets/96fe1bc1-6d3e-4318-ba89-0c256343f1cd)
+![New Piskel](https://github.com/user-attachments/assets/e8d5b963-d161-44d3-a428-26f9971becab)
 
    Add the MIT App Inventor File to the Repository
 
